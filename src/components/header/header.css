@@ -1,0 +1,35 @@
+.header_div {
+  background-color: rgb(22, 22, 22);
+  height: 10vh;
+  width: 90vw;
+  border-radius: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.right_div {
+  padding-bottom: 10px;
+}
+
+.Header_dot {
+  color: #d87c44;
+  font-size: 3rem;
+}
+
+.center_div {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 30vw;
+}
+
+.hiremebutton {
+  background-color: #d87c44;
+  border-radius: 3px;
+  border: none;
+  font-size: large;
+  padding: 10px;
+  color: white;
+  width: 100px;
+}
