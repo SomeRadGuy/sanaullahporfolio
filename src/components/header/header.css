@@ -1,5 +1,5 @@
 .header_div {
-  background-color: #1d1a18;
+  background-color: #09000e;
   height: 10vh;
   width: 90vw;
   border-radius: 20px;
@@ -14,7 +14,7 @@
 }
 
 .Header_dot {
-  color: #d87c44;
+  color: #7f16ff;
   font-size: 3rem;
 }
 
@@ -26,11 +26,11 @@
 }
 
 .center_div a:hover {
-  color: #d87c44;
+  color: #7f16ff;
 }
 
 .hiremebutton {
-  background-color: #d87c44;
+  background-color: #7f16ff;
   border-radius: 3px;
   border: none;
   font-size: large;

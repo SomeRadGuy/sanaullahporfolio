@@ -1,5 +1,10 @@
+body::-webkit-scrollbar {
+  display: none;
+}
+
 .main_div {
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
 }

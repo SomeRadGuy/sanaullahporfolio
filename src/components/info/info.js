@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "./../header/header";
 import "./info.css";
-import InfoImage from "./../../images/rightimage.jpeg";
+import InfoImage from "./../../images/rightimage.png";
 import { FaGithub, FaLinkedin, FaTwitter, FaInstagram } from "react-icons/fa";
 
 const info = () => {
