@@ -1,0 +1,48 @@
+.skills_main_div {
+  background-color: #09000e;
+  height: 100vh;
+  width: 100vw;
+  margin-top: 30px;
+}
+
+.skills_header_div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.skills_body {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+
+.left_skills_div {
+  width: 50vw;
+  height: 90vh;
+  padding: 25px;
+}
+
+.left_skills_div p {
+  font-size: 15px;
+  padding-left: 15px;
+}
+
+.right_skills_div {
+  width: 50vw;
+  height: 90vh;
+  padding: 25px;
+}
+
+.skills_buttons {
+  display: flex;
+  flex-direction: row;
+  width: 15vw;
+}
+
+.sub_skills_buttons {
+  background-color: #7f16ff;
+  padding: 8px;
+  border-radius: 5px;
+}

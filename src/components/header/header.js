@@ -20,9 +20,6 @@ const header = () => {
         <a>
           <h3>Skills</h3>
         </a>
-        <a>
-          <h3>Resume</h3>
-        </a>
       </div>
       <div className="left_div">
         <button className="hiremebutton">Hire Me</button>
