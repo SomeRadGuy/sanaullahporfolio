@@ -9,40 +9,34 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding-top: 10px;
+  padding-top: 20px;
 }
 
-.skills_body {
+.skill_rows {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  padding: 35px;
 }
 
-.left_skills_div {
-  width: 50vw;
-  height: 90vh;
-  padding: 25px;
+.one_skill_div {
+  width: 30vw;
 }
 
-.left_skills_div p {
-  font-size: 15px;
-  padding-left: 15px;
-}
-
-.right_skills_div {
-  width: 50vw;
-  height: 90vh;
-  padding: 25px;
-}
-
-.skills_buttons {
-  display: flex;
-  flex-direction: row;
-  width: 15vw;
-}
-
-.sub_skills_buttons {
-  background-color: #7f16ff;
-  padding: 8px;
+.skills_bar {
+  height: 10px;
+  background-color: blueviolet;
   border-radius: 5px;
+}
+
+.seventy_bar {
+  width: 21vw;
+}
+
+.hundred_bar {
+  width: 30vw;
+}
+
+.fifty_bar {
+  width: 15vw;
 }
